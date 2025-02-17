@@ -2,7 +2,7 @@
 
 This repository contains the code for CyLLM-DAP, a framework designed to simplify the domain-adaptive pretraining process of LLMs to create cybersecurity-specific LLMs. The framework has six main components:
 
-![plot](./graphics/component.jpg)
+![plot](./graphics/component.png)
 
 1. **Data Collection**: Supports the collection of data from various sources such as web data (Common Crawl) and academic papers (S2OCR).
 2. **Relevance Filtering**: Determines the relevance of the data to the cybersecurity domain.
