@@ -1,0 +1,1116 @@
+[
+    {
+        "name": "interpol.int/en/Crimes/Cybercrime",
+        "keywords": ["interpol.int/en/Crimes/Cybercrime"]
+    },
+    {
+        "name": "techtarget.com/searchsecurity/news",
+        "keywords": ["techtarget.com/searchsecurity/news/"]
+    },
+    {
+        "name": "fbi.gov",
+        "keywords": ["fbi.gov","cyber","investigate"]
+    },
+    {
+        "name": "securityweek.com",
+        "keywords": ["securityweek.com"]
+    },
+    {
+        "name": "welivesecurity",
+        "keywords": ["www.welivesecurity.com"]
+    },
+    {
+        "name": "cyberscoop.com",
+        "keywords": ["cyberscoop.com"]
+    },
+    {
+        "name": "ti.dbappsecurity.com.cn",
+        "keywords": ["ti.dbappsecurity.com.cn","blog"]
+    },
+    {
+        "name": "https://arstechnica.com/information-technology",
+        "keywords": ["arstechnica.com","information-technology"]
+    },
+    {
+        "name": "riskiq.com",
+        "keywords": ["www.riskiq.com","blog"]
+    },
+    {
+        "name": "attack.mitre.org",
+        "keywords": ["attack.mitre.org","docs"]
+    },
+    {
+        "name": "medium.com/mitre-attack",
+        "keywords": ["medium.com","mitre-attack"]
+    },
+    {
+        "name": "https://www.rsa.com/",
+        "keywords": ["www.rsa.com","white-papers"]
+    },
+    {
+        "name": "rsa.com",
+        "keywords": ["www.rsa.com","multi-factor-authentication"]
+    },
+    {
+        "name": "rsa.com",
+        "keywords": ["www.rsa.com","passwordless"]
+    },
+    {
+        "name": "rsa.com",
+        "keywords": ["www.rsa.com","zero-trust"]
+    },
+    {
+        "name": "https://www.ironnet.com/",
+        "keywords": ["www.ironnet.com","blog"]
+    },
+    {
+        "name": "coresecurity.com",
+        "keywords": ["coresecurity.com","blog"]
+    },
+    {
+        "name": "crowdstrike",
+        "keywords": ["www.crowdstrike.com","blog"]
+    },
+    {
+        "name": "msrc.microsoft.com",
+        "keywords": ["msrc.microsoft.com","blog"]
+    },
+    {
+        "name": "microsoft.com",
+        "keywords": ["wdsi","microsoft","threats"]
+    },
+    {
+        "name": "thedfirreport",
+        "keywords": ["thedfirreport.com"]
+    },
+    {
+        "name": "microsoft",
+        "keywords": ["microsoft","security","blog"]
+    },
+    {
+        "name": "mandiant",
+        "keywords": ["www.mandiant.com","blog"]
+    },
+    {
+        "name": "fireeye",
+        "keywords": [".fireeye.com","blog"]
+    },
+    {
+        "name": "fireeye",
+        "keywords": ["content.fireeye","apt"]
+    },
+    {
+        "name": "mcafee.com",
+        "keywords": ["mcafee.com","blogs"]
+    },
+    {
+        "name": "mcafee.com",
+        "keywords": ["mcafee.com/enterprise/en-us/assets/reports"]
+    },
+    {
+        "name": "securingtomorrow.mcafee.com/mcafee-labs",
+        "keywords": ["securingtomorrow.mcafee.com","mcafee-labs"]
+    },
+    {
+        "name": "blogs.blackberry",
+        "keywords": ["blackberry.com","blog","/en/"]
+    },
+    {
+        "name": "clearskysec.com",
+        "keywords": ["clearskysec.com"]
+    },
+    {
+        "name": "bitdefender",
+        "keywords": ["blog","bitdefender"]
+    },
+    {
+        "name": "symantec-enterprise-blogs.security",
+        "keywords": ["symantec-enterprise-blogs.security","blogs","threat-intelligence"]
+    },
+    {
+        "name": "cybereason",
+        "keywords": ["www.cybereason.com","blog"]
+    },
+    {
+        "name": "bleepingcomputer",
+        "keywords": ["bleepingcomputer","news","security"]
+    },
+    {
+        "name": "blog.talosintelligence",
+        "keywords": ["talosintelligence.com","blog"]
+    },
+    {
+        "name": "volexity",
+        "keywords": ["www.volexity.com","blog"]
+    },
+    {
+        "name": "ncsc.gov.uk",
+        "keywords": ["ncsc.gov.uk","blog-post"]
+    },
+    {
+        "name": "ncsc.gov.uk",
+        "keywords": ["ncsc.gov.uk","files"]
+    },
+    {
+        "name": "ncsc.gov.uk",
+        "keywords": ["ncsc.gov.uk","news"]
+    },
+    {
+        "name": "orangematter.solarwinds",
+        "keywords": ["orangematter.solarwinds"]
+    },
+    {
+        "name": "blogs.vmware.com",
+        "keywords": ["blogs.vmware.com","security"]
+    },
+    {
+        "name": "fortinet.com",
+        "keywords": ["www.fortinet.com","blog"]
+    },
+    {
+        "name": "securelist.com",
+        "keywords": ["securelist.com"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","security"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","threat-encyclopedia"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","document"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","news"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","blog"]
+    },
+    {
+        "name": "trendmicro.com",
+        "keywords": ["trendmicro.com","research"]
+    },
+    {
+        "name": "talent-jump.com",
+        "keywords": ["talent-jump.com","article"]
+    },
+    {
+        "name": "cisa.gov",
+        "keywords": ["cisa.gov","analysis-reports"]
+    },
+    {
+        "name": "secureworks.com",
+        "keywords": ["secureworks.com","blog"]
+    },
+    {
+        "name": "intel471.com",
+        "keywords": ["intel471.com","blog"]
+    },
+    {
+        "name": "group-ib.com",
+        "keywords": ["group-ib.com","blog"]
+    },
+    {
+        "name": "group-ib.com",
+        "keywords": ["group-ib.com","threat-search"]
+    },
+    {
+        "name": "group-ib.com",
+        "keywords": ["group-ib.com","whitepapers"]
+    },
+    {
+        "name": "kroll.com",
+        "keywords": ["kroll","insights","en","publications"]
+    },
+    {
+        "name": "redcanary.com",
+        "keywords": ["redcanary.com","threat-detection-report"]
+    },
+    {
+        "name": "cyberint.com",
+        "keywords": ["cyberint.com","blog"]
+    },
+    {
+        "name": "groupib.pathfactory.com",
+        "keywords": ["groupib.pathfactory.com","ransomware-reports"]
+    },
+    {
+        "name": "programmersought.com",
+        "keywords": ["programmersought.com","article"]
+    },
+    {
+        "name": "unit42.paloaltonetworks.com",
+        "keywords": ["unit42.paloaltonetworks.com"]
+    },
+    {
+        "name": "researchcenter.paloaltonetworks.com",
+        "keywords": ["paloaltonetworks","researchcenter"]
+    },
+    {
+        "name": "research.checkpoint.com",
+        "keywords": ["checkpoint.com","research"]
+    },
+    {
+        "name": "blog.checkpoint.com",
+        "keywords": ["checkpoint.com","blog"]
+    },
+    {
+        "name": "malwarebytes.com",
+        "keywords": ["malwarebytes.com","blog"]
+    },
+    {
+        "name": "threatresearch.ext.hp",
+        "keywords": ["threatresearch.ext.hp"]
+    },
+    {
+        "name": "uptycs.com",
+        "keywords": ["uptycs.com","blog"]
+    },
+    {
+        "name": "objective-see.org",
+        "keywords": ["objective-see","blog"]
+    },
+    {
+        "name": "cobaltstrike.com",
+        "keywords": ["cobaltstrike.com","blog"]
+    },
+    {
+        "name": "cloudblogs.microsoft.com",
+        "keywords": ["cloudblogs.microsoft.com","microsoftsecure"]
+    },
+    {
+        "name": "explore.avertium.com",
+        "keywords": ["explore.avertium.com","resource"]
+    },
+    {
+        "name": "explore.avertium.com",
+        "keywords": ["explore.avertium.com","resource"]
+    },
+    {
+        "name": "avertium.com",
+        "keywords": ["avertium.com","threat-reports"]
+    },
+    {
+        "name": "cyble.com",
+        "keywords": ["cyble.com","blog"]
+    },
+    {
+        "name": "deepinstinct.com",
+        "keywords": ["deepinstinct.com","blog"]
+    },
+    {
+        "name": "minerva-labs.com",
+        "keywords": ["minerva-labs.com","blog"]
+    },
+    {
+        "name": "malwarebytes.com",
+        "keywords": ["malwarebytes.com","blog"]
+    },
+    {
+        "name": "intezer.com",
+        "keywords": ["intezer.com","blog"]
+    },
+    {
+        "name": "trustwave.com",
+        "keywords": ["trustwave.com","blog"]
+    },
+    {
+        "name": "proofpoint.com",
+        "keywords": ["proofpoint.com","blog"]
+    },
+    {
+        "name": "elis531989.medium.com",
+        "keywords": ["elis531989.medium.com"]
+    },
+    {
+        "name": "symantec.com",
+        "keywords": ["symantec.com","blog"]
+    },
+    {
+        "name": "forcepoint.com",
+        "keywords": ["forcepoint.com","blog"]
+    },
+    {
+        "name": "zscaler.com",
+        "keywords": ["zscaler.com","blog"]
+    },
+    {
+        "name": "sentinelone.com",
+        "keywords": ["sentinelone.com","labs"]
+    },
+    {
+        "name": "bi-zone.medium.com",
+        "keywords": ["bi-zone.medium.com"]
+    },
+    {
+        "name": "accenture.com",
+        "keywords": ["accenture.com","insights/security"]
+    },
+    {
+        "name": "accenture.com",
+        "keywords": ["accenture.com","blogs"]
+    },
+    {
+        "name": "pwc.co.uk",
+        "keywords": ["pwc.co.uk","security"]
+    },
+    {
+        "name": "usa.kaspersky.com",
+        "keywords": ["usa.kaspersky.com","press-releases"]
+    },
+    {
+        "name": "gdatasoftware.com",
+        "keywords": ["gdatasoftware.com","blog"]
+    },
+    {
+        "name": "picussecurity.com",
+        "keywords": ["picussecurity.com","blog"]
+    },
+    {
+        "name": "recordedfuture.com",
+        "keywords": ["recordedfuture.com","blog"]
+    },
+    {
+        "name": "recordedfuture.com",
+        "keywords": ["recordedfuture.com"]
+    },
+    {
+        "name": "recordedfuture.com",
+        "keywords": ["recordedfuture.com","reports"]
+    },
+    {
+        "name": "mackeeper.com",
+        "keywords": ["mackeeper.com","blog"]
+    },
+    {
+        "name": "sentinelone.com",
+        "keywords": ["sentinelone.com","labs"]
+    },
+    {
+        "name": "proofpoint.com",
+        "keywords": ["proofpoint.com","threat-insight"]
+    },
+    {
+        "name": "awakesecurity.com",
+        "keywords": ["awakesecurity.com","blog"]
+    },
+    {
+        "name": "malwarebytes.com",
+        "keywords": ["malwarebytes.com","blog"]
+    },
+    {
+        "name": "f-secure.com",
+        "keywords": ["f-secure.com","blog"]
+    },
+    {
+        "name": "blogs.cisco.com",
+        "keywords": ["blogs.cisco.com","security"]
+    },
+    {
+        "name": "rapid7.com",
+        "keywords": ["rapid7.com","blog"]
+    },
+    {
+        "name": "aquasec.com",
+        "keywords": ["aquasec.com","blog"]
+    },
+    {
+        "name": "sysdig.com",
+        "keywords": ["sysdig.com","blog"]
+    },
+    {
+        "name": "biztechmagazine.com",
+        "keywords": ["biztechmagazine.com","article"]
+    },
+    {
+        "name": "cyberdefensemagazine.com",
+        "keywords": ["cyberdefensemagazine.com"]
+    },
+    {
+        "name": "cybernews.com",
+        "keywords": ["cybernews.com","security"]
+    },
+    {
+        "name": "blog.fox-it.com",
+        "keywords": ["fox-it.com","blog"]
+    },
+    {
+        "name": "foxitsecurity.files.wordpress.com",
+        "keywords": ["foxitsecurity","wordpress"]
+    },
+    {
+        "name": "jp.security.ntt",
+        "keywords": ["security","ntt","tech_blog"]
+    },
+    {
+        "name": "insight-jp.nttsecurity.com/post",
+        "keywords": ["nttsecurity","insight","post"]
+    },
+    {
+        "name": "medium.com/s2wblog",
+        "keywords": ["medium","s2wblog"]
+    },
+    {
+        "name": "http://blog.jpcert.or.jp/",
+        "keywords": ["blog","jpcert.or.jp","en"]
+    },
+    {
+        "name": "cybleinc",
+        "keywords": ["https://cybleinc.com"]
+    },
+    {
+        "name": "cybleinc",
+        "keywords": ["cybleinc.wpcomstaging.com"]
+    },
+    {
+        "name": "securityintelligence",
+        "keywords": ["securityintelligence","post"]
+    },
+    {
+        "name": "eff.org",
+        "keywords": ["www.eff.org","deeplinks"]
+    },
+    {
+        "name": "minervaresearchpublic",
+        "keywords": ["minervaresearchpublic"]
+    },
+    {
+        "name": "symantec",
+        "keywords": ["symantec","security-center"]
+    },
+    {
+        "name": "http://www.cyphort.com/",
+        "keywords": ["www.cyphort.com"]
+    },
+    {
+        "name": "morphisec",
+        "keywords": ["morphisec.com","blog"]
+    },
+    {
+        "name": "juniper",
+        "keywords": ["juniper.net","blog","/en-us/"]
+    },
+    {
+        "name": "threatvector.cylance.com",
+        "keywords": ["cylance","threatvector"]
+    },
+    {
+        "name": "blog.qualys.com",
+        "keywords": ["qualys.com","blog"]
+    },
+    {
+        "name": "esentire.com",
+        "keywords": ["esentire.com","blog"]
+    },
+    {
+        "name": "esentire.com",
+        "keywords": ["esentire.com","security-advisories"]
+    },
+    {
+        "name": "esentire.com",
+        "keywords": ["esentire.com","library"]
+    },
+    {
+        "name": "synack.com",
+        "keywords": ["synack.com","blog"]
+    },
+    {
+        "name": "https://www.securityartwork.es/",
+        "keywords": ["www.securityartwork.es"]
+    },
+    {
+        "name": "cofense",
+        "keywords": ["cofense.com","blog"]
+    },
+    {
+        "name": "eclypsium.com",
+        "keywords": ["eclypsium.com","wp-content"]
+    },
+    {
+        "name": "digital.nhs.uk",
+        "keywords": ["digital.nhs.uk","cyber-alerts"]
+    },
+    {
+        "name": "radware.com",
+        "keywords": ["radware","blog","security"]
+    },
+    {
+        "name": "flashpoint",
+        "keywords": ["flashpoint-intel.com","blog"]
+    },
+    {
+        "name": "flashpoint",
+        "keywords": ["flashpoint.io","blog"]
+    },
+    {
+        "name": "news.drweb.com",
+        "keywords": ["drweb.com","news","lng=en"]
+    },
+    {
+        "name": "vms.drweb.com",
+        "keywords": ["drweb.com","vms","virus","lng=en"]
+    },
+    {
+        "name": "sophos.com",
+        "keywords": ["sophos","en-us","medialibrary","technical-papers"]
+    },
+    {
+        "name": "sophos.com",
+        "keywords": ["sophos.com","en-us","news"]
+    },
+    {
+        "name": "logrhythm.com",
+        "keywords": ["logrhythm.com","blog"]
+    },
+    {
+        "name": "fidelissecurity.com",
+        "keywords": ["fidelissecurity.com","threatgeek"]
+    },
+    {
+        "name": "picussecurity.com",
+        "keywords": ["picussecurity.com","blog"]
+    },
+    {
+        "name": "avast.com",
+        "keywords": ["avast.com","blog"]
+    },
+
+    {
+        "name": "alienvault.com",
+        "keywords": ["alienvault.com","blog"]
+    },
+    {
+        "name": "threatpost.com",
+        "keywords": ["threatpost.com"]
+    },
+    {
+        "name": "tetradefense.com",
+        "keywords": ["tetradefense","incident-response-services"]
+    },
+    {
+        "name": "arcticwolf.com",
+        "keywords": ["arcticwolf.com","blog"]
+    },
+    {
+        "name": "arcticwolf.com",
+        "keywords": ["arcticwolf.com","report"]
+    },
+    {
+        "name": "trustwave.com",
+        "keywords": ["trustwave","blog","en-us"]
+    },
+    {
+        "name": "pxnow.prevx.com",
+        "keywords": ["pxnow.prevx.com","blog"]
+    },
+    {
+        "name": "guidepointsecurity.com",
+        "keywords": ["guidepointsecurity","blog"]
+    },
+    {
+        "name": "cyber.wtf",
+        "keywords": ["cyber.wtf"]
+    },
+    {
+        "name": "symantec-enterprise-blogs.security.com/blogs",
+        "keywords": ["symantec","blog","threat-intelligence"]
+    },
+    {
+        "name": "symantec-enterprise-blogs.security.com/blogs",
+        "keywords": ["symantec-enterprise-blogs.security.com","/blog"]
+    },
+    {
+        "name": "cyberbit.com",
+        "keywords": ["cyberbit.com","blog"]
+    },
+    {
+        "name": "netskope.com",
+        "keywords": ["netskope.com","blog"]
+    },
+    {
+        "name": "anomali.com",
+        "keywords": ["anomali.com","blog"]
+    },
+    {
+        "name": "netscout.com",
+        "keywords": ["netscout.com","blog"]
+    },
+    {
+        "name": "medium.com/@chroniclesec",
+        "keywords": ["medium","chroniclesec"]
+    },
+    {
+        "name": "medium.com/@chroniclesec",
+        "keywords": ["medium.com","chronicle-blog"]
+    },
+    {
+        "name": "chronicle.security",
+        "keywords": ["chronicle.security","blog"]
+    },
+    {
+        "name": "joesandbox.com",
+        "keywords": ["joesandbox.com","analysis"]
+    },
+    {
+        "name": "sogeti.com.com",
+        "keywords": ["sogeti.com","reports"]
+    },
+    {
+        "name": "medium.com/stage-2-security",
+        "keywords": ["medium","stage-2-security"]
+    },
+    {
+        "name": "gosecure.net",
+        "keywords": ["gosecure.net","blog"]
+    },
+    {
+        "name": "blog.google/threat-analysis-group",
+        "keywords": ["google","blog","threat-analysis-group"]
+    },
+    {
+        "name": "amnestyusa.org/wp-content/",
+        "keywords": ["amnestyusa.org","wp-content"]
+    },
+    {
+        "name": "glitch-cat.com",
+        "keywords": ["glitch-cat.com","blog"]
+    },
+    {
+        "name": "dragos.com",
+        "keywords": ["dragos.com","blog"]
+    },
+    {
+        "name": "cisecurity.org",
+        "keywords": ["cisecurity.org","blog"]
+    },
+    {
+        "name": "cyware.com",
+        "keywords": ["cyware.com","news"]
+    },
+    {
+        "name": "cyware.com",
+        "keywords": ["cyware.com","blog"]
+    },
+    {
+        "name": "http://blog.threatexpert.com/",
+        "keywords": ["threatexpert","blog"]
+    },
+    {
+        "name": "blog.360totalsecurity.com",
+        "keywords": ["360totalsecurity","blog"]
+    },
+    {
+        "name": "www.crysys.hu/publications/",
+        "keywords": ["crysys.hu","publications"]
+    },
+    {
+        "name": "infoblox.com",
+        "keywords": ["infoblox.com","insights"]
+    },
+    {
+        "name": "blogs.infoblox.com",
+        "keywords": ["infoblox.com","blog"]
+    },
+    {
+        "name": "technet.microsoft.com",
+        "keywords": ["technet.microsoft.com","blog"]
+    },
+    {
+        "name": "arbornetworks.com",
+        "keywords": ["arbornetworks","blog"]
+    },
+    {
+        "name": "sophosnews.com",
+        "keywords": ["sophosnews.com","files"]
+    },
+    {
+        "name": "deepinstinct.com",
+        "keywords": ["deepinstinct.com","blog"]
+    },
+    {
+        "name": "cloudblogs.microsoft.com",
+        "keywords": ["cloudblogs","microsoft"]
+    },
+    {
+        "name": "citizenlab.ca",
+        "keywords": ["citizenlab.ca"]
+    },
+    {
+        "name": "eset.com",
+        "keywords": ["eset","white-papers"]
+    },
+    {
+        "name": "hornetsecurity.com",
+        "keywords": ["hornetsecurity","security-information"]
+    },
+    {
+        "name": "digital.nhs.uk",
+        "keywords": ["digital.nhs.uk","cyber-alerts"]
+    },
+    {
+        "name": "us-cert.gov",
+        "keywords": ["us-cert.gov","analysis-reports"]
+    },
+    {
+        "name": "us-cert.cisa.gov",
+        "keywords": ["us-cert.cisa.gov","alerts"]
+    },
+    {
+        "name": "kb.cert.org/vuls/id",
+        "keywords": ["kb.cert.org","vuls"]
+    },
+    {
+        "name": "splunk.com/en_us/blog/security/",
+        "keywords": ["splunk.com","blog","security","en_us"]
+    },
+    {
+        "name": "securelist.com",
+        "keywords": ["securelist.com","files"]
+    },
+    {
+        "name": "sans.org",
+        "keywords": ["sans.org","blog"]
+    },
+    {
+        "name": "threatstream",
+        "keywords": ["threatstream.com","blog"]
+    },
+    {
+        "name": "jamf.com",
+        "keywords": ["jamf.com","blog"]
+    },
+    {
+        "name": "securityaffairs.com",
+        "keywords": ["securityaffairs.com"]
+    },
+    {
+        "name": "itprotoday.com",
+        "keywords": ["itprotoday.com"]
+    },
+    {
+        "name": "itprotoday.com",
+        "keywords": ["windowsitpro.com"]
+    },
+    {
+        "name": "ic3.gov",
+        "keywords": ["ic3.gov","news"]
+    },
+    {
+        "name": "intego.com",
+        "keywords": ["intego.com","blog"]
+    },
+    {
+        "name": "joesecurity.org/blog",
+        "keywords": ["joesecurity.org","blog"]
+    },
+    {
+        "name": "threatminer.org",
+        "keywords": ["threatminer.org","report"]
+    },
+    {
+        "name": "cynet.com",
+        "keywords": ["cynet.com","blog"]
+    },
+
+    {
+        "name": "cyber.nj.gov",
+        "keywords": ["cyber.nj.gov","threat-center"]
+    },
+    {
+        "name": "malwaretech.com",
+        "keywords": ["malwaretech.com"]
+    },
+    {
+        "name": "elastic.co/blog/",
+        "keywords": ["elastic.co","blog"]
+    },
+    {
+        "name": "endgame.com/blog/technical-blog",
+        "keywords": ["endgame.com","blog"]
+    },
+    {
+        "name": "operationblockbuster.com",
+        "keywords": ["operationblockbuster.com","wp-content","uploads"]
+    },
+    {
+        "name": "media.defense.gov",
+        "keywords": ["media.defense.gov","pdf"]
+    },
+    {
+        "name": "ti.360.net",
+        "keywords": ["ti.360.net","blog"]
+    },
+    {
+        "name": "media.kasperskycontenthub.com",
+        "keywords": ["kasperskycontenthub","wp-content","uploads"]
+    },
+    {
+        "name": "rewterz.com",
+        "keywords": ["rewterz.com","articles"]
+    },
+    {
+        "name": "avira.com/en/blog",
+        "keywords": ["avira.com/en/blog"]
+    },
+    {
+        "name": "https://blog.certfa.com/",
+        "keywords": ["blog.certfa.com","posts"]
+    },
+    {
+        "name": "ptsecurity.com",
+        "keywords": ["ptsecurity.com","upload"]
+    },
+    {
+        "name": "ptsecurity.com",
+        "keywords": ["ptsecurity.com","analytics"]
+    },
+    {
+        "name": "lab52.io/blog",
+        "keywords": ["lab52.io","blog"]
+    },
+    {
+        "name": "cymmetria-blog",
+        "keywords": ["cymmetria-blog","pdf"]
+    },
+    {
+        "name": "lacework.com",
+        "keywords": ["lacework.com","blog"]
+    },
+    {
+        "name": "threatconnect.com",
+        "keywords": ["threatconnect.com","blog"]
+    },
+    {
+        "name": "rewterz.com",
+        "keywords": ["rewterz.com","threats"]
+    },
+    {
+        "name": "carnal0wnage.com",
+        "keywords": ["carnal0wnage","blog"]
+    },
+    {
+        "name": "carnal0wnage.attackresearch.com",
+        "keywords": ["carnal0wnage.attackresearch.com"]
+    },
+
+    {
+        "name": "darkreading.com",
+        "keywords": ["www.darkreading.com"]
+    },
+    {
+        "name": "lastline.com",
+        "keywords": ["lastline.com","labsblog"]
+    },
+    {
+        "name": "lastline.com",
+        "keywords": ["labs.lastline.com"]
+    },
+    {
+        "name": "phishlabs.com",
+        "keywords": ["phishlabs.com","blog"]
+    },
+    {
+        "name": "thehackernews.com",
+        "keywords": ["thehackernews.com"]
+    },
+    {
+        "name": "therecord.media",
+        "keywords": ["therecord.media"]
+    },
+
+    {
+        "name": "thecyberwire.com",
+        "keywords": ["thecyberwire.com","stories"]
+    },
+
+    {
+        "name": "thecyberexpress.com",
+        "keywords": ["thecyberexpress.com"]
+    },
+    {
+        "name": "abcnews.go.com/alerts/cyberattacks",
+        "keywords": ["abcnews.go.com","cyberattacks"]
+    },
+    {
+        "name": "https://www.scmagazine.com/",
+        "keywords": ["scmagazine.com","news"]
+    },
+    {
+        "name": "www.cshub.com",
+        "keywords": ["www.cshub.com","news"]
+    },
+    {
+        "name": "cpomagazine.com",
+        "keywords": ["cpomagazine.com"]
+    },
+    {
+        "name": "cybermagazine.com",
+        "keywords": ["cybermagazine.com"]
+    },
+
+
+    {
+        "name": "cyberscoop.com",
+        "keywords": ["cyberscoop.com"]
+    },
+    {
+        "name": "cyberdefensemagazine.com",
+        "keywords": ["cyberdefensemagazine.com"]
+    },
+    {
+        "name": "infosecurity-magazine.com/news/",
+        "keywords": ["infosecurity-magazine.com","news"]
+    },
+    {
+        "name": "https://healthitsecurity.com/",
+        "keywords": ["healthitsecurity.com"]
+    },
+    {
+        "name": "itsecurityguru.org",
+        "keywords": ["itsecurityguru.org"]
+    },
+    {
+        "name": "helpnetsecurity.com",
+        "keywords": ["helpnetsecurity.com"]
+    },
+    {
+        "name": "cisomag.com",
+        "keywords": ["https://cisomag.com"]
+    },
+    {
+        "name": "https://krebsonsecurity.com/",
+        "keywords": ["krebsonsecurity.com"]
+    },
+    {
+        "name": "bankinfosecurity.co.uk",
+        "keywords": ["bankinfosecurity.co.uk"]
+    },
+    {
+        "name": "csoonline.com",
+        "keywords": ["csoonline.com","article"]
+    },
+    {
+        "name": "gbhackers.com/",
+        "keywords": ["https://gbhackers.com"]
+    },
+    {
+        "name": "govinfosecurity.com/",
+        "keywords": ["govinfosecurity.com"]
+    },
+    {
+        "name": "grahamcluley.com",
+        "keywords": ["grahamcluley.com"]
+    },
+    {
+        "name": "www.hackread.com",
+        "keywords": ["www.hackread.com"]
+    },
+    {
+        "name": "nakedsecurity.sophos.com",
+        "keywords": ["nakedsecurity.sophos.com"]
+    },
+    {
+        "name": "tripwire.com/state-of-security",
+        "keywords": ["tripwire.com/state-of-security"]
+    },
+    {
+        "name": "binarydefense.com",
+        "keywords": ["binarydefense.com","blog"]
+    },
+    {
+        "name": "binarydefense.com",
+        "keywords": ["binarydefense.com","threat-watch"]
+    },
+    {
+        "name": "virtualattacks.com",
+        "keywords": ["virtualattacks.com"]
+    },
+    {
+        "name": "securitymagazine.com",
+        "keywords": ["securitymagazine.com"]
+    },
+
+    {
+        "name": "lastwatchdog.com",
+        "keywords": ["lastwatchdog.com"]
+    },   
+     {
+        "name": "schneier.com",
+        "keywords": ["schneier.com","blog"]
+    },  
+    {
+        "name": "schneier.com",
+        "keywords": ["schneier.com","news"]
+    }, 
+      {
+        "name": "https://www.akamai.com/blog",
+        "keywords": ["akamai.com","blog"]
+    },    {
+        "name": "https://www.akamai.com",
+        "keywords": ["akamai.com","white-paper"]
+    },    {
+        "name": "https://www.pcworld.com/article",
+        "keywords": ["pcworld.com","article"]
+    },   
+     {
+        "name": "cio.com",
+        "keywords": ["www.cio.com"]
+    },    {
+        "name": "afcea.org/signal-media/cyber-edge",
+        "keywords": ["afcea.org/signal-media/cyber-edge"]
+    },
+    {
+        "name": "usnews.com",
+        "keywords": ["usnews.com","cybersecurity"]
+    },
+    {
+        "name": "cnbc.com",
+        "keywords": ["www.cnbc.com","cybersecurity"]
+    },
+    {
+        "name": "nextgov.com/cybersecurity/",
+        "keywords": ["nextgov.com","cybersecurity"]
+    },
+    {
+        "name": "airbuscybersecurity",
+        "keywords": ["airbuscybersecurity","blog"]
+    },
+    {
+        "name": "cybersecurity.att.com",
+        "keywords": ["cybersecurity","att","blog"]
+    },
+    {
+        "name": "nytimes.com",
+        "keywords": ["nytimes.com","cybersecurity"]
+    },
+    {
+        "name": "cybersecurityventures.com",
+        "keywords": ["cybersecurityventures.com"]
+    },
+    {
+        "name": "cybersecuritydive.com",
+        "keywords": ["cybersecuritydive.com"]
+    },
+    {
+        "name": "cybersecuritynews.com",
+        "keywords": ["cybersecuritynews.com"]
+    },
+    {
+        "name": "cybersecurity-insiders.com",
+        "keywords": ["cybersecurity-insiders.com"]
+    },
+    {
+        "name": "cbsnews.com",
+        "keywords": ["cbsnews.com","cybersecurity"]
+    },
+    {
+        "name": "darkreading.com",
+        "keywords": ["www.darkreading.com","cybersecurity-analytics"]
+    }
+    
+]

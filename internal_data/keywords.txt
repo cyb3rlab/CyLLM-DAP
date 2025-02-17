@@ -1,0 +1,498 @@
+IoT security
+computer security
+common vulnerabilities and exposures
+software vulnerability
+hardware vulnerability
+computer vulnerability
+computer virus
+computer malware
+cybersecurity awareness
+cybersecurity training
+data privacy
+digital security
+information technology security 
+application security
+Cloud security
+critical infrastructure security
+data security
+mobile security
+zero trust security model
+ransomware
+computer trojan
+gen V attack
+advanced persistent threat
+supply chain attack
+white hat hacking
+black hat hacking
+cyber defense
+cyber security defense
+AI cybersecurity
+cybersecurity compliance
+cybersecurity model
+cyber threat model
+cybersecurity policy
+cybersecurity education
+cybersafety
+cyber kill chain
+cyber threat intelligence
+cybersecurity education
+cybersecurity psychology
+cyberpsychology
+online criminal
+online fraud
+online safety
+computer system
+cyber attack
+cyber risk management
+cyber risk assessment
+cyber risk analysis
+cyber risk
+cyber safety
+cybersecurity
+computer network
+cyber security
+information security
+internet security
+Network security
+network defense
+Data protection
+Cyber threat
+Malware
+Phishing
+spearphishing
+Antivirus
+Intrusion detection
+IT security
+Ransomware
+Data breach
+data breaches
+Two factor authentication
+Identity theft
+Social engineering
+Cyber hygiene
+Password security
+Vulnerability assessment
+Patch management
+Penetration testing
+Zero day exploits
+Security awareness
+Encryption
+Secure sockets layer
+Virtual private network
+Cyber attack
+Incident response
+Cyber resilience
+Security policies
+Cybersecurity framework
+Cloud security
+Mobile security
+Wireless network security
+Endpoint security
+Threat intelligence
+Data privacy
+Insider threats
+Network monitoring
+Application security
+Security audit
+Phishing awareness
+spearphishing
+Multi factor authentication
+Network segmentation
+Internet security
+Email security
+Computer network
+Networking protocols
+computer network
+cyber threat intelligence
+cyber threat
+mitre att&ck
+mitre attack
+penetration testing
+threat modeling
+attack path
+IoT Security
+Malware Analysis
+Cloud Security
+cybercrime
+cybercriminal
+Cybersecurity Education
+cybersecurity Awareness
+data encryption
+Data Loss Prevention systems
+Cybersecurity Law and Ethics
+Cyberbullying
+Operational Security
+AI security
+ethical hacking
+Privacy protection
+Security evaluation
+cybersecurity model
+hardware security
+web security
+Digital Identity
+digital Authentication
+Control System Security
+cyber criminal
+Intrusion Detection System
+cyber attack
+cyber incident
+cybernews
+cyberattacks
+cyber intelligence
+clickjacking
+cyber ecosystem
+cyberespionage
+data breach
+data integrity
+data theft
+digital certificate
+digital forensics
+drive by download
+hacktivism
+information security policy
+packet sniffing
+network sniffing
+sandboxing
+spear phishing
+spyware
+cyber threat assessment
+unauthorized access
+cyber defense
+cyber safety
+pen test
+penetration test
+pentest
+cyber crime
+online crime
+online spying
+online spy
+kali linux
+Metasploit
+cyber security
+cybernews
+maleware
+ransomware
+network security
+keylog
+phishing
+security incident
+antivirus
+threat intelligence
+incident response
+security awareness
+denial of service
+security assessment
+data breach
+security information
+information security
+social engineering
+data breach
+infosec
+cyber crime
+cyber attack
+computer security
+internet security
+digital security
+information technology security
+computer protection
+cyber operation
+network defense
+system security
+cyber defense
+it security
+data security
+antivirus
+encryption
+cloud security
+cryptography
+threat analysis
+capec
+endpoint security
+mobile security
+cyber activit
+anti malware
+antivirus
+Cyber hygiene
+cyber risk
+Cyber resilience
+cyber incident
+CTI report
+cyberwar
+cyber war
+cyberattack
+cyberthreat
+cyberhack
+cyber excercise
+hacker
+computer hacking
+cyber conflict
+information protect
+data protect
+two-factor authentica
+software authentica
+database protect
+website protect
+malicious website
+malicious software
+dark web
+deep web
+data encrypt
+information encrypt
+data decrypt
+computer hack
+computer attack
+computer defen
+privacy threat
+data exfiltrat
+data steal
+command and control
+Vulnerability Scanning
+Victim Host Information
+Victim Identity Information
+Victim Network Information
+Botnet
+Malvertising
+Compromise Account
+Compromise Infrastructure
+Code Signing Certificat
+Drive-by Compromise
+Drive-by Target
+SEO Poisoning
+Public-Facing Application
+Supply Chain Compromise
+Command and Scripting Interpreter
+Windows Command Shell
+PowerShell
+Component Object Model
+Dynamic Data Exchange
+XPC Service
+at utility
+cron utility
+Windows Task Scheduler
+schtasks utility
+Systemd timer
+Container orchestration job
+Launchctl
+Windows service control manager
+Windows Management Instrumentation
+Windows Remote Management
+WinRM
+SSH authorized_keys
+multifactor authentication
+Background Intelligent Transfer Service
+BITS job
+Registry run key
+Windows authentication package
+Local Security Authority
+Windows Time service
+W32Time
+Winlogon
+security support providers
+SSP DLL
+Loadable Kernel Modules
+LSASS driver
+AddMonitor API
+XDG Autostart Entr
+Desktop Entry file
+SMLoginItemSetEnabled
+UserInitMprLogonScript
+com.apple.loginwindow.plist
+RC script
+Browser extension
+modify system-level process
+LaunchAgent
+Launch Daemon
+LC_LOAD_DYLIB
+Netsh Helper DLL
+Netsh.exe
+AppCert DLL
+AppInit DLL
+application shim
+Image File Execution Option
+Event Monitor Daemon
+Windows Remote Management
+Hijacking DLL
+DLL Side-Load
+Dylib Hijack
+Dynamic Linker Hijack
+COR_PROFILER
+KernelCallbackTable
+Local Security Authentication Server
+Security Accounts Manager
+pluggable authentication module
+Password Filter DLL
+Network Device Authentication
+Reversible Encryption
+Network Provider DLL
+Microsoft Office template
+Pre-OS Boot
+Bootkit
+ROMMONkit
+TFTP Boot
+netbooting
+Scheduled Task
+Port Knocking
+Socket Filter
+elevate privilege
+Setuid and Setgid
+User Account Control
+Sudo and Sudo Cach
+Token Impersonat
+Impersonate Token
+Parent PID Spoof
+parent process identifier
+SID-History Injection
+Windows security identifier
+attribute-based access control
+Group Policy Object
+Unix Shell Configuration
+Path Interception by PATH Environment Variable
+Process Injection
+Portable Executable Injection
+Thread Execution Hijack
+ptrace (process trace) system call
+Ptrace System Call
+process doppelg
+Process Hollow
+VDSO Hijack
+ListPlanting
+Debugger Evasion
+Direct Volume Access
+Execution Guardrail
+Defense Evasion
+Permissions Modification
+NTFS file attribute
+VBA Stomping
+Email Hiding Rule
+Resource Fork
+Windows Event Log
+Command History Log
+Mac System Log
+Linux System Log
+System Firewall
+computer firewall
+network firewall
+Cloud Firewall
+Modify Cloud Logs
+Spoof Security Alert
+Linux Audit System
+File Deletion
+Timestomp
+Indirect Command Execution
+Code Signature
+Double File Extension
+Break Process Tree
+Authentication Process
+Domain Controller Authentication
+Network Boundary Bridg
+Network Address Translation Traversal
+Binary Padding
+Software Packing
+Steganography
+HTML Smuggling
+Dynamic API Resolution
+LNK Icon Smug
+Subvert Trust Control
+Gatekeeper Bypass
+Code Signing
+Root Certificate
+Mark-of-the-Web
+Proxy Execution
+CMSTP
+malicious code
+Microsoft Connection Manager Profile Installer
+InstallUtil
+Mshta
+Msiexec
+Odbcconf
+Regsvcs
+Regasm
+Regsvr32
+rundll32.exe
+verclsid.exe
+mavinject
+Microsoft Management Console
+PubPrn
+Pass the Hash
+Pass the Ticket
+Crypto Hardware
+Adversary-in-the-Middle
+Data Manipulation
+SMB Relay
+LLMNR/NBT-NS Poisoning
+DHCP Spoof
+Brute forcing password
+Password Guess
+Password Crack
+Password Spray
+Credential Stuff
+Securityd Memory
+Windows Credential Manager
+password manager
+AWS Secrets Manager
+Forge Web Credential
+user Input Capture
+Web Portal Capture
+Credential API Hook
+DCSync
+Kerberoast
+AS-REP Roast
+Unsecured Credential
+Account Discover
+Log Enumeration
+Network Service Discover
+Network Share Discover
+Password Policy Discover
+Permission Groups Discover
+Process Discover
+Security Software Discover
+System Information Discover
+Network Configuration Discover
+Sandbox Evasion
+avoid virtualization
+RDP Hijack
+Taint Shared Content
+Confluence repositor
+SharePoint reposi
+code repositor
+Local Data Staging
+Data Obfuscat
+Protocol Impersonat
+Fast Flux DNS
+Ingress Tool Transfer
+Dead Drop Resolver
+C2 Channel
+C2 communication
+Disk Wipe
+Disk Content Wipe
+Disk Structure Wipe
+Denial of Service
+OS Exhaustion Flood
+Service Exhaustion Flood
+Firmware Corruption
+Resource Hijack
+network attack
+protect your data
+cyber theft
+data theft
+information theft
+data steal
+Credential theft
+Credential phishing
+credential access
+cyber thieves
+digital crime
+cyber spy
+Cyber Investigat
+Computer Crime
+Online fraud
+cyber fraud
+Privacy Invasion
+Cyber Espionage
+scammer
+cyber hack
+online hack
+data hack
+indicator of compromise
+Sandboxing
+VPN
