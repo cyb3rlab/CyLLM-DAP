@@ -57,13 +57,20 @@ The framework is implemented using an object-oriented approach.
 - `trainers`: Contains simple training scripts.
 - `workspace`: Default workspace to run the functions.
 
+
 ## Data Hierarchy
 
 In general, when running the code, you need a workspace directory. The necessary subdirectories will be automatically created.
 
 ## Dataset
 
-To access the training data for domain-adaptive pretraining purposes, please consider `khangmacon/myllm`. To access the CyLLMs, please consider `khangmacon/cyllama3`.
-
+To access the training data for domain-adaptive pretraining purposes, please consider `khangmacon/myllm`. 
+To access the CyLLama, please consider `khangmacon/cyllama3`.
+To access the CyMistral, please down from this link: `https://drive.google.com/file/d/10HOa791FhU3cyvUjb-tuL9zAtxy4AULj`
+S2OCR Data: `https://drive.google.com/file/d/1r51q7GJelW0H-LTAs4N76U4YVGOoxdTF`
+Book Data: `https://drive.google.com/file/d/13PYxOIegbpdQeP_YOQu768qOtEhAbccP`
+Common Crawl Data: `https://drive.google.com/file/d/1RPzKSmbnp1bVt2Jf2SZGct7JK2tQg5M7`
+Wikipedia Data: `https://drive.google.com/file/d/10Q7SDia3UgYB5tGSNG1x60GrOGvAR_eb`
+The data is stored in Jsonline objects; each line is a document.
 ## Acknowledgements
 
