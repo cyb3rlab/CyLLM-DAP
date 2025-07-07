@@ -74,6 +74,6 @@ In general, when running the code, you need a workspace directory. The necessary
 - The data is stored in Jsonline objects; each line is a document.
 
 - Cyber classification data: `khangmacon/cyberregression`. Each item is a cybersecurity text with a relevance score in the range [0, 1] (showing the relevancy level of the text to cybersecurity) and a quality score (if the text is of good quality)
-- Model for cyber regression: `khangmacon/cyber_regression_model`. This model was trained to classify a text into cyber/noncyber using the cyberregression data. When filtering webpages, use the longest paragraph  (>512) or a random slice of 512 characters. The recommended threshold is 0.6.
+- Model for cyber regression: `khangmacon/cyber_regression_model`. This model was trained to classify text into cybersecurity using the cyberregression data. When filtering webpages, use the longest paragraph  (>512) or a random slice of 512 characters. The recommended threshold is 0.6.
 ## Acknowledgements
 
